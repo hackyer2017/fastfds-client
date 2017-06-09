@@ -1,0 +1,17 @@
+fdfs:
+  soTimeout: 1500
+  connectTimeout: 600
+  thumbImage:             #缩略图生成参数
+    width: 150
+    height: 150
+  trackerList:            #TrackerList参数,支持多个
+     - 192.168.13.32:22122
+     - 192.168.13.33:22122
+  pool:
+    #从池中借出的对象的最大数目
+    maxTotal: 100
+    #获取连接时的最大等待毫秒数100
+    maxWaitMillis: 1000
+spring:
+  jmx:
+    enabled: false
