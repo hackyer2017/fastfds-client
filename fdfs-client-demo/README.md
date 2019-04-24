@@ -274,10 +274,6 @@ spring:
 
 具体的使用方式请参考**单元测试代码**
 
-### demo
-
-[http://192.168.13.53:8999/chenfei/fdfs-client-demo](http://192.168.13.53:8999/chenfei/fdfs-client-demo)
-
 ## 参考
 
 [https://github.com/happyfish100](https://github.com/happyfish100)  
